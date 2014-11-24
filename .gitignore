@@ -1,0 +1,12 @@
+.idea/
+node_modules/
+repos/*
+!repos/.gitkeep
+base/*
+!base/.gitkeep
+css/*
+!css/.gitkeep
+fonts/*
+!fonts/.gitkeep
+js/*
+!js/.gitkeep
